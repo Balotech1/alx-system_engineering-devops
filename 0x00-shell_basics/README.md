@@ -5,3 +5,4 @@ Script that display current directory contents in a long format
 Script that display current directory contents in digit only
 Scripts that create two directories at a time
 Scripts that move a file from another directory to another directory using absolute path
+Script that delete a file in folder
