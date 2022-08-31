@@ -10,4 +10,5 @@ Script that delete a directory in directoiry
 Script that changes the working directory to the previous one
 Script that list hidden files and in parent directory
 Script that prints out file type
-script that create a symbolic link 
+script that create a symbolic link
+Script that copy html files 
