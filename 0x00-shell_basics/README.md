@@ -6,5 +6,6 @@ Script that display current directory contents in digit only
 Scripts that create two directories at a time
 Scripts that move a file from another directory to another directory using absolute path
 Script that delete a file in a directory
-Script that delete a directory in directory
-Script that changes the working directory to the previous one 
+Script that delete a directory in directoiry
+Script that changes the working directory to the previous one
+Script that list hidden files 
