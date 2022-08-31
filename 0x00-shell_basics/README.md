@@ -8,4 +8,4 @@ Scripts that move a file from another directory to another directory using absol
 Script that delete a file in a directory
 Script that delete a directory in directoiry
 Script that changes the working directory to the previous one
-Script that list hidden files 
+Script that list hidden files and in parent directory 
