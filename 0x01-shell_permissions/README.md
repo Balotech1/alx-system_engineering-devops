@@ -6,4 +6,5 @@ Script that create an empty file
 Script that gives permission to the user
 Script that gives multiple permission
 script that gives everybody permission
-Script that gives owner and group no permission but gives others user all permissionScript that gives users all permission, group only read and execute, and others write and execute only 
+Script that gives owner and group no permission but gives others user all permissionScript that gives users all permission, group only read and execute, and others write and execute only
+Script that sets the mode of one file same as other mode 
