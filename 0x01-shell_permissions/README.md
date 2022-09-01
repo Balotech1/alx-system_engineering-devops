@@ -10,3 +10,4 @@ Script that gives owner and group no permission but gives others user all permis
 Script that sets the mode of one file same as other mode 
 Script that gives execute permission to all subdirectories of the current directory for uga
 Script that creates directory with permissions in the working directory
+Script that changes group owner
