@@ -12,3 +12,4 @@ Script that gives execute permission to all subdirectories of the current direct
 Script that creates directory with permissions in the working directory
 Script that changes group owner
 Script that changes owner and group owner
+Script on symbolic link permission
